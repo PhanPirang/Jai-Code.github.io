@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["A5:CC:0D:1A:34:E7:2C:EB:12:9D:12:90:66:27:53:D7:6F:F6:DF:D6:9C:5C:68:52:32:A2:A4:58:00:7E:7E:AE"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kh.gdt.gov.epayments.dev",
+    "sha256_cert_fingerprints":
+    ["72:D9:76:D8:75:B7:BA:55:FF:44:00:7B:17:94:8C:C8:03:6C:37:43:31:27:31:52:94:47:37:9D:DA:00:1B:41"]
+  }
 }]
